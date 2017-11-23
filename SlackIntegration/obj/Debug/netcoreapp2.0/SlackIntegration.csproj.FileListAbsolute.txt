@@ -1,0 +1,12 @@
+c:\users\son_dinhquang\source\repos\SlackIntegration\SlackIntegration\bin\Debug\netcoreapp2.0\SlackIntegration.deps.json
+c:\users\son_dinhquang\source\repos\SlackIntegration\SlackIntegration\bin\Debug\netcoreapp2.0\SlackIntegration.runtimeconfig.json
+c:\users\son_dinhquang\source\repos\SlackIntegration\SlackIntegration\bin\Debug\netcoreapp2.0\SlackIntegration.runtimeconfig.dev.json
+c:\users\son_dinhquang\source\repos\SlackIntegration\SlackIntegration\bin\Debug\netcoreapp2.0\SlackIntegration.dll
+c:\users\son_dinhquang\source\repos\SlackIntegration\SlackIntegration\bin\Debug\netcoreapp2.0\SlackIntegration.pdb
+c:\users\son_dinhquang\source\repos\SlackIntegration\SlackIntegration\obj\Debug\netcoreapp2.0\SlackIntegration.csproj.CoreCompileInputs.cache
+c:\users\son_dinhquang\source\repos\SlackIntegration\SlackIntegration\obj\Debug\netcoreapp2.0\SlackIntegration.AssemblyInfoInputs.cache
+c:\users\son_dinhquang\source\repos\SlackIntegration\SlackIntegration\obj\Debug\netcoreapp2.0\SlackIntegration.AssemblyInfo.cs
+c:\users\son_dinhquang\source\repos\SlackIntegration\SlackIntegration\obj\Debug\netcoreapp2.0\SlackIntegration.dll
+c:\users\son_dinhquang\source\repos\SlackIntegration\SlackIntegration\obj\Debug\netcoreapp2.0\SlackIntegration.pdb
+c:\users\son_dinhquang\source\repos\SlackIntegration\SlackIntegration\obj\Debug\netcoreapp2.0\SlackIntegration.csprojResolveAssemblyReference.cache
+c:\users\son_dinhquang\source\repos\SlackIntegration\SlackIntegration\obj\Debug\netcoreapp2.0\UserSecretsAssemblyInfo.cs
